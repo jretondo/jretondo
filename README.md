@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/javi_r_90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javi_r_90" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/javier-edgardo-retondo-46a326151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-edgardo-retondo-46a326151/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dev-retondo-javier/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dev-retondo-javier/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/javier.retondo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/javier.retondo" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/javiretondo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/javiretondo/" height="30" width="40" /></a>
 </p>
