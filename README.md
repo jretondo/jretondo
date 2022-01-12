@@ -13,8 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/javi_r_90" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" alt="javi_r_90" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dev-retondo-javier/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/dev-retondo-javier/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/javier.retondo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/javier.retondo" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/javiretondo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/javiretondo/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/javiretondo/" target="blank"><img align="center" src="https://www.msm.gov.ar/wp-content/uploads/2020/05/new-instagram-logo-png-transparent-light.png" alt="https://www.instagram.com/javiretondo/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
