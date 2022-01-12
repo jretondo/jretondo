@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **NodeJS, VB.NET**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/javier-edgardo-retondo-46a326151/](https://www.linkedin.com/in/javier-edgardo-retondo-46a326151/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/dev-retondo-javier/](https://www.linkedin.com/in/javier-edgardo-retondo-46a326151/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
